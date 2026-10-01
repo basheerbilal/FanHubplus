@@ -1654,7 +1654,7 @@ app.get("/api/health", (req, res) => {
 
 const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 3000;
 
-if (!process.env.IS_DEV_SERVER) {
+if (!process.env.IS_DEV_SERVER && !process.env.VERCEL) {
   const distPath = path.join(__dirname, "dist");
   app.use(express.static(distPath));
 
