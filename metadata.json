@@ -1,0 +1,8 @@
+{
+  "name": "Fan Hub Plus",
+  "description": "Premium multi-fandom entertainment discovery platform for anime, gaming, movies, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

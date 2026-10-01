@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Large video binaries (>10MB)
+*.mp4
+*.webm
+public/uploads/*.mp4
+public/uploads/*.webm
+

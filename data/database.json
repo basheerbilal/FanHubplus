@@ -1,0 +1,1060 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "Zoro",
+      "email": "admin@fanhub.plus",
+      "password": "admin",
+      "avatar": "/avatars/zoro.jpg",
+      "isEmailVerified": true,
+      "favorites": [
+        "Anime",
+        "Gaming",
+        "Manga"
+      ],
+      "role": "admin",
+      "createdAt": 1787808574491
+    },
+    {
+      "id": "user-1",
+      "name": "Shadow Hunter",
+      "email": "hunter@fanhub.plus",
+      "password": "hunter",
+      "avatar": "https://api.dicebear.com/7.x/lorelei/png?seed=Naruto&size=128",
+      "isEmailVerified": true,
+      "favorites": [
+        "Anime",
+        "Gaming"
+      ],
+      "role": "registered",
+      "createdAt": 1789104574491
+    },
+    {
+      "id": "visitor-1",
+      "name": "BasheerBilal",
+      "email": "visitor@fanhub.plus",
+      "password": "visitor",
+      "avatar": "/avatars/goku.jpg",
+      "isEmailVerified": true,
+      "favorites": [
+        "Anime",
+        "Movies",
+        "Cosplay"
+      ],
+      "role": "visitor",
+      "createdAt": 1789968574491
+    },
+    {
+      "id": "usr-1790424659811",
+      "name": "bashheer",
+      "email": "basheerbilal36@gmail.com",
+      "password": "Basheer",
+      "avatar": "/avatars/goku.jpg",
+      "isEmailVerified": true,
+      "favorites": [
+        "Gaming",
+        "Movies",
+        "TV Shows",
+        "Anime"
+      ],
+      "role": "registered",
+      "createdAt": 1790424659811
+    }
+  ],
+  "userData": {
+    "admin-1": {
+      "watchlist": [
+        "anime-exp-1790524640700",
+        "m2",
+        "arcane-jinx",
+        "anime-16498",
+        "exp-1",
+        "m1"
+      ],
+      "favorites": [
+        "Anime",
+        "Gaming",
+        "Manga"
+      ],
+      "ratings": [
+        {
+          "contentId": "anime-16498",
+          "score": 9.5
+        },
+        {
+          "contentId": "1",
+          "score": 5
+        }
+      ],
+      "activities": [
+        {
+          "id": "act-1790778558798-820q",
+          "type": "view",
+          "contentId": "char-rawg-43050",
+          "contentTitle": "Viewed Lore: The Witcher 3: Wild Hunt – Hearts of Stone",
+          "timestamp": 1790778558798
+        },
+        {
+          "id": "act-1790778536341-zfs3",
+          "type": "view",
+          "contentId": "char-417",
+          "contentTitle": "Viewed Lore: Lelouch Lamperouge",
+          "timestamp": 1790778536341
+        },
+        {
+          "id": "act-1790628225646-muhp",
+          "type": "view",
+          "contentId": "char-arcane-jinx",
+          "contentTitle": "Viewed Lore: Jinx (Powder)",
+          "timestamp": 1790628225646
+        },
+        {
+          "id": "act-1790628110118-h3c9",
+          "type": "view",
+          "contentId": "1",
+          "contentTitle": "Cyberpunk: Edgerunners",
+          "timestamp": 1790628110118
+        },
+        {
+          "id": "act-1790625969997-cjee",
+          "type": "watchlist",
+          "contentId": "anime-exp-1790524640700",
+          "contentTitle": "Fullmetal Alchemist: Brotherhood",
+          "timestamp": 1790625969997
+        },
+        {
+          "id": "act-1790625969995",
+          "type": "watchlist",
+          "contentId": "anime-exp-1790524640700",
+          "contentTitle": "Anime #exp-1790524640700",
+          "timestamp": 1790625969995
+        },
+        {
+          "id": "act-1790625966105-aoh4",
+          "type": "watchlist",
+          "contentId": "anime-exp-1790524640700",
+          "contentTitle": "Fullmetal Alchemist: Brotherhood",
+          "timestamp": 1790625966105
+        },
+        {
+          "id": "act-1790625966102",
+          "type": "watchlist",
+          "contentId": "anime-exp-1790524640700",
+          "contentTitle": "Anime #exp-1790524640700",
+          "timestamp": 1790625966102
+        },
+        {
+          "id": "act-1790625868830-36ot",
+          "type": "view",
+          "contentId": "char-101922",
+          "contentTitle": "Viewed Lore: Tanjiro Kamado",
+          "timestamp": 1790625868830
+        },
+        {
+          "id": "act-1790624370278-z310",
+          "type": "view",
+          "contentId": "char-40",
+          "contentTitle": "Viewed Lore: Luffy Monkey",
+          "timestamp": 1790624370278
+        },
+        {
+          "id": "act-1790591656969",
+          "type": "watchlist",
+          "contentId": "m2",
+          "contentTitle": "m2",
+          "timestamp": 1790591656969
+        },
+        {
+          "id": "act-1790591577475-g79r",
+          "type": "rate",
+          "contentId": "1",
+          "contentTitle": "Cyberpunk: Edgerunners",
+          "timestamp": 1790591577475
+        },
+        {
+          "id": "act-1790591577464",
+          "type": "rate",
+          "contentId": "1",
+          "contentTitle": "Rated (5/10)",
+          "timestamp": 1790591577464
+        },
+        {
+          "id": "act-1790591533452-pzt9",
+          "type": "view",
+          "contentId": "1",
+          "contentTitle": "Cyberpunk: Edgerunners",
+          "timestamp": 1790591533452
+        },
+        {
+          "id": "act-1790580028657-mhr3",
+          "type": "view",
+          "contentId": "char-batman-wayne",
+          "contentTitle": "Viewed Lore: BATMAN WAYNE",
+          "timestamp": 1790580028657
+        },
+        {
+          "id": "act-1790579719453-uy3a",
+          "type": "view",
+          "contentId": "char-62",
+          "contentTitle": "Viewed Lore: Zoro Roronoa",
+          "timestamp": 1790579719453
+        },
+        {
+          "id": "act-1790579703324-56ns",
+          "type": "view",
+          "contentId": "char-101922",
+          "contentTitle": "Viewed Lore: Tanjiro Kamado",
+          "timestamp": 1790579703324
+        },
+        {
+          "id": "act-1790577317876",
+          "type": "watchlist",
+          "contentId": "arcane-jinx",
+          "contentTitle": "arcane-jinx",
+          "timestamp": 1790577317876
+        },
+        {
+          "id": "act-1790577294277-r5fb",
+          "type": "view",
+          "contentId": "3",
+          "contentTitle": "Spider-Man: Beyond the Spider-Verse",
+          "timestamp": 1790577294277
+        },
+        {
+          "id": "act-1790522958632-nqhm",
+          "type": "view",
+          "contentId": "tmdb-31911",
+          "contentTitle": "Mr. Wonderful",
+          "timestamp": 1790522958632
+        },
+        {
+          "id": "act-1790522459585-6jnu",
+          "type": "view",
+          "contentId": "tmdb-31911",
+          "contentTitle": "Mr. Wonderful",
+          "timestamp": 1790522459585
+        },
+        {
+          "id": "act-1790518222813-ig9x",
+          "type": "view",
+          "contentId": "tmdb-312266",
+          "contentTitle": "Baltic Skies",
+          "timestamp": 1790518222813
+        },
+        {
+          "id": "act-1790517825962-cqxi",
+          "type": "view",
+          "contentId": "tmdb-270603",
+          "contentTitle": "Roundabout American",
+          "timestamp": 1790517825962
+        },
+        {
+          "id": "act-1790517581009-8uor",
+          "type": "view",
+          "contentId": "tmdb-270603",
+          "contentTitle": "Roundabout American",
+          "timestamp": 1790517581009
+        },
+        {
+          "id": "act-1790517559345-de66",
+          "type": "view",
+          "contentId": "tmdb-270603",
+          "contentTitle": "Roundabout American",
+          "timestamp": 1790517559345
+        },
+        {
+          "id": "act-1790517532690-gaag",
+          "type": "view",
+          "contentId": "tmdb-270603",
+          "contentTitle": "Roundabout American",
+          "timestamp": 1790517532690
+        },
+        {
+          "id": "act-1",
+          "type": "watchlist",
+          "contentTitle": "Solo Leveling",
+          "timestamp": 1790393374491
+        },
+        {
+          "id": "act-2",
+          "type": "rate",
+          "contentTitle": "Attack on Titan",
+          "timestamp": 1790357374491
+        }
+      ]
+    },
+    "user-1": {
+      "watchlist": [
+        "anime-16498",
+        "m2"
+      ],
+      "favorites": [
+        "Anime",
+        "Gaming"
+      ],
+      "ratings": [
+        {
+          "contentId": "anime-16498",
+          "score": 9
+        }
+      ],
+      "activities": [
+        {
+          "id": "act-3",
+          "type": "watchlist",
+          "contentTitle": "Solo Leveling",
+          "timestamp": 1790386174491
+        }
+      ]
+    },
+    "admin-1790400741430": {
+      "watchlist": [],
+      "favorites": [
+        "Anime",
+        "Gaming"
+      ],
+      "ratings": [],
+      "activities": []
+    },
+    "visitor-1": {
+      "watchlist": [
+        "anime-113415",
+        "anime-101922",
+        "anime-151807",
+        "anime-178789",
+        "anime-196187",
+        "anime-182205"
+      ],
+      "favorites": [],
+      "ratings": [],
+      "activities": [
+        {
+          "id": "act-1790425653950",
+          "type": "watchlist",
+          "contentId": "anime-113415",
+          "contentTitle": "Anime #113415",
+          "timestamp": 1790425653950
+        },
+        {
+          "id": "act-1790425652272",
+          "type": "watchlist",
+          "contentId": "anime-101922",
+          "contentTitle": "Anime #101922",
+          "timestamp": 1790425652272
+        },
+        {
+          "id": "act-1790425650596",
+          "type": "watchlist",
+          "contentId": "anime-151807",
+          "contentTitle": "Anime #151807",
+          "timestamp": 1790425650596
+        },
+        {
+          "id": "act-1790411805003",
+          "type": "watchlist",
+          "contentId": "anime-209983",
+          "contentTitle": "Anime #209983",
+          "timestamp": 1790411805003
+        },
+        {
+          "id": "act-1790411798712",
+          "type": "watchlist",
+          "contentId": "anime-217331",
+          "contentTitle": "Anime #217331",
+          "timestamp": 1790411798712
+        },
+        {
+          "id": "act-1790411543670",
+          "type": "watchlist",
+          "contentId": "anime-210482",
+          "contentTitle": "Anime #210482",
+          "timestamp": 1790411543670
+        },
+        {
+          "id": "act-1790411535901",
+          "type": "watchlist",
+          "contentId": "anime-178789",
+          "contentTitle": "Anime #178789",
+          "timestamp": 1790411535901
+        },
+        {
+          "id": "act-1790411135968",
+          "type": "watchlist",
+          "contentId": "anime-196187",
+          "contentTitle": "Anime #196187",
+          "timestamp": 1790411135968
+        },
+        {
+          "id": "act-1790411130289",
+          "type": "watchlist",
+          "contentId": "anime-182205",
+          "contentTitle": "Anime #182205",
+          "timestamp": 1790411130289
+        },
+        {
+          "id": "act-1790402376609",
+          "type": "watchlist",
+          "contentId": "anime-210482",
+          "contentTitle": "Anime #210482",
+          "timestamp": 1790402376609
+        },
+        {
+          "id": "act-1790402372873",
+          "type": "watchlist",
+          "contentId": "anime-209983",
+          "contentTitle": "Anime #209983",
+          "timestamp": 1790402372873
+        }
+      ]
+    },
+    "usr-1790424659811": {
+      "watchlist": [
+        "spotlight-3",
+        "spotlight-2",
+        "anime-171110",
+        "anime-209983",
+        "anime-182205"
+      ],
+      "favorites": [
+        "Gaming"
+      ],
+      "ratings": [
+        {
+          "contentId": "1",
+          "score": 5
+        }
+      ],
+      "activities": [
+        {
+          "id": "act-1790630197478",
+          "type": "watchlist",
+          "contentId": "spotlight-1",
+          "contentTitle": "spotlight-1",
+          "timestamp": 1790630197478
+        },
+        {
+          "id": "act-1790498610909-n7au",
+          "type": "view",
+          "contentId": "char-101922",
+          "contentTitle": "Viewed Lore: Tanjiro Kamado",
+          "timestamp": 1790498610909
+        },
+        {
+          "id": "act-1790494679921-d6uf",
+          "type": "view",
+          "contentId": "char-40",
+          "contentTitle": "Viewed Lore: Luffy Monkey",
+          "timestamp": 1790494679921
+        },
+        {
+          "id": "act-1790494228101",
+          "type": "watchlist",
+          "contentId": "spotlight-3",
+          "contentTitle": "spotlight-3",
+          "timestamp": 1790494228101
+        },
+        {
+          "id": "act-1790494226361",
+          "type": "watchlist",
+          "contentId": "spotlight-2",
+          "contentTitle": "spotlight-2",
+          "timestamp": 1790494226361
+        },
+        {
+          "id": "act-1790493135417-qayb",
+          "type": "view",
+          "contentId": "char-127691",
+          "contentTitle": "Viewed Lore: Satoru Gojou",
+          "timestamp": 1790493135417
+        },
+        {
+          "id": "act-1790493018686-7097",
+          "type": "view",
+          "contentId": "char-62",
+          "contentTitle": "Viewed Lore: Zoro Roronoa",
+          "timestamp": 1790493018686
+        },
+        {
+          "id": "act-1790492505099-vxpr",
+          "type": "rate",
+          "contentId": "1",
+          "contentTitle": "Cyberpunk: Edgerunners",
+          "timestamp": 1790492505099
+        },
+        {
+          "id": "act-1790492505090",
+          "type": "rate",
+          "contentId": "1",
+          "contentTitle": "Rated (5/10)",
+          "timestamp": 1790492505090
+        },
+        {
+          "id": "act-1790492500170-yo3m",
+          "type": "view",
+          "contentId": "1",
+          "contentTitle": "Cyberpunk: Edgerunners",
+          "timestamp": 1790492500170
+        },
+        {
+          "id": "act-1790492493284-b5bo",
+          "type": "view",
+          "contentId": "2",
+          "contentTitle": "Demon Slayer: Infinity Castle",
+          "timestamp": 1790492493284
+        },
+        {
+          "id": "act-1790425720770",
+          "type": "watchlist",
+          "contentId": "anime-171110",
+          "contentTitle": "Anime #171110",
+          "timestamp": 1790425720770
+        },
+        {
+          "id": "act-1790425719081",
+          "type": "watchlist",
+          "contentId": "anime-209983",
+          "contentTitle": "Anime #209983",
+          "timestamp": 1790425719081
+        },
+        {
+          "id": "act-1790425716881",
+          "type": "watchlist",
+          "contentId": "anime-182205",
+          "contentTitle": "Anime #182205",
+          "timestamp": 1790425716881
+        },
+        {
+          "id": "act-1790424659811",
+          "type": "join",
+          "contentTitle": "Joined Fan Hub Plus",
+          "timestamp": 1790424659811
+        }
+      ]
+    }
+  },
+  "submissions": [
+    {
+      "id": "sub-1790592614048",
+      "title": "rizq share",
+      "category": "Anime",
+      "type": "Article",
+      "description": "hello",
+      "image": "/uploads/media_1790592592571_naukxn.png",
+      "sourceUrl": "",
+      "authorEmail": "basheerbilal36@gmail.com",
+      "status": "approved",
+      "timestamp": 1790592614048
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq-1",
+      "question": "How do I save content to my Watchlist?",
+      "answer": "Click the Bookmark / Save icon on any movie, anime, or merchandise card. You can view all saved items in your personalized Dashboard.",
+      "category": "Bookmarks"
+    },
+    {
+      "id": "faq-2",
+      "question": "Can I buy merchandise directly on Fan Hub Plus?",
+      "answer": "No, Fan Hub Plus is exclusively a discovery showcase and fan lore platform. Transactions, checkouts, and payment processing are not supported.",
+      "category": "Merchandise"
+    },
+    {
+      "id": "faq-3",
+      "question": "How does the fan submission review process work?",
+      "answer": "Registered users can submit lore articles or character profiles via 'Submit Content'. Administrators review and approve submissions before they appear publicly.",
+      "category": "Submissions"
+    },
+    {
+      "id": "faq-4",
+      "question": "What fandom universes are supported?",
+      "answer": "We support 8 major fandom universes: Anime, Gaming, Movies, TV Shows, K-Pop, Comics, Manga, and Cosplay.",
+      "category": "General"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "fb-1790591603704",
+      "type": "suggestion",
+      "message": "hey hello adimin this is testing",
+      "email": "",
+      "timestamp": 1790591603704
+    }
+  ],
+  "merchandise": [
+    {
+      "title": "abc",
+      "category": "Collectibles",
+      "fandom": "Gaming",
+      "price": "56",
+      "image": "/uploads/media_1790663770254_oiqmfp.jpg",
+      "tags": [],
+      "description": "abc",
+      "releaseDate": "jan 2026",
+      "isUpcoming": true,
+      "id": "m-1790663789956",
+      "addedAt": 1790663789956
+    },
+    {
+      "title": "Azur Promilia",
+      "category": "Figures",
+      "fandom": "Anime",
+      "price": "Free-to-Play",
+      "image": "/uploads/media_1790583467597_jrhaee.jpg",
+      "tags": [],
+      "description": "Story & Setting: Developed by Manjuu Games, the setting is Promilia, a vibrant high-fantasy continent filled with magical ruins, airborne islands, and elemental creatures known as Kibo.\n\nGameplay Mechanics:\n\nCreature Taming & Base Building: Capture, hatch, and train various Kibo species to assist in battle, gather resources, or serve as flying and land mounts.\n\nReal-Time Party Combat: Switch dynamically between squad members while coordinating linked attacks with your active Kibo companions.\n\nNo PVP Pressure: Completely PvE-focused open-world exploration with puzzle solving, farming, and domain bosses.",
+      "releaseDate": "Late 2026 / 2027",
+      "isUpcoming": true,
+      "id": "m-1790583603406",
+      "addedAt": 1790583603406
+    },
+    {
+      "title": "DRAGON BALL XENOVERSE 3",
+      "category": "Model Kits",
+      "fandom": "Anime",
+      "price": "$59.99 – $69.99",
+      "image": "/uploads/media_1790583207322_3hhvb9.jpg",
+      "tags": [],
+      "description": "AGE 1000 - A WHOLE NEW WORLD\nStep into a brand-new future DRAGON BALL universe filled with unique, original characters brought to life by Akira Toriyama, the original author of DRAGON BALL.\n\nIn AGE 1000, journey through developed and vibrant West City. Explore the bustling city, encounter characters, and uncover exciting new stories.\n\nTake your place in the story and experience what awaits in West City.\n\nGuided into the ranks of the Great Saiyan Squad, you’ll fight alongside allies as events there begin to take shape.",
+      "releaseDate": "Early 2027 window (Expected)",
+      "isUpcoming": true,
+      "id": "m-1790583209680",
+      "addedAt": 1790583209680
+    },
+    {
+      "id": "m1",
+      "title": "Satoru Gojo Nendoroid",
+      "category": "Figures",
+      "fandom": "Jujutsu Kaisen",
+      "price": "$59.99",
+      "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&q=80&w=800",
+      "tags": [
+        "Limited Edition",
+        "Pre-Order"
+      ],
+      "description": "Highly detailed poseable figure with multiple expressions, blindfold swap heads, and domain expansion effect pieces.",
+      "addedAt": 1790357374491
+    },
+    {
+      "id": "m2",
+      "title": "Grand Theft Auto VI (GTA 6)",
+      "category": "Collectibles",
+      "fandom": "Gaming",
+      "price": "$69.99 – $79.99",
+      "image": "/uploads/media_1790579081823_3syx55.jpg",
+      "tags": [
+        "Collectible",
+        "Limited Edition"
+      ],
+      "description": "The Grand Theft Auto series has helped define open-world games since its 1997 debut. Grand Theft Auto III moved the series into 3D, while Vice City, San Andreas, GTA IV and GTA V each expanded its worlds, characters and systems. GTA VI arrives after the longest gap between numbered entries in the series.",
+      "addedAt": 1790366014491,
+      "releaseDate": "Late 2026 / Early 2027",
+      "isUpcoming": true
+    },
+    {
+      "id": "m3",
+      "title": "Most-Watched Shows",
+      "category": "Collectibles",
+      "fandom": "Gaming",
+      "price": "$149.99",
+      "image": "/uploads/media_1790577746758_ejzsfn.webp",
+      "tags": [
+        "Classic"
+      ],
+      "description": "In 2011, Dark Souls let players praise the sun, and that sun cast a shadow long enough to engulf the whole industry. The action-RPG–boosted by its spiritual predecessor, Demon’s Souls–kickstarted a new subgenre with a refreshing level of boldness that made it unignorable for any developer making a game with a sword. It was a paradigm shift that swallowed the action genre and meant almost everything was molded after Dark Souls and its stamina meter, methodical movement, and esoteric world. Even with small deviations here and there, there was seemingly little room for action games unwilling to stick to this blueprint.\n\nThis dearth of variety is precisely what makes Onimusha: Way of the Sword so refreshing. Instead of capitulating to trends, Capcom’s latest hit bravely demonstrates a level of versatility action games should have had all this time in this post-Dark Souls world.\n\n",
+      "addedAt": 1790374654491,
+      "releaseDate": "",
+      "isUpcoming": true
+    },
+    {
+      "id": "m4",
+      "title": "Demon Slayer: Zenitsu Hoodie",
+      "category": "Apparel",
+      "fandom": "Anime",
+      "price": "$45.00",
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&q=80&w=800",
+      "tags": [
+        "New Arrival"
+      ],
+      "description": "Heavyweight 400GSM cotton hoodie featuring embroidered signature yellow-orange lightning triangle pattern.",
+      "addedAt": 1790383294491
+    },
+    {
+      "id": "m5",
+      "title": "Gundam RX-78-2 Perfect Grade Unleashed",
+      "category": "Model Kits",
+      "fandom": "Anime",
+      "price": "$275.00",
+      "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&q=80&w=800",
+      "tags": [
+        "Limited Edition",
+        "Pre-Order"
+      ],
+      "description": "State-of-the-art multi-layer internal skeleton frame with etched metal parts and full LED illumination.",
+      "addedAt": 1790391934491
+    },
+    {
+      "id": "m6",
+      "title": "Spider-Man 2 Advanced Suit 1/6 Scale",
+      "category": "Figures",
+      "fandom": "Comics",
+      "price": "$285.00",
+      "image": "https://images.unsplash.com/photo-1635863138275-d9b33299680b?auto=format&fit=crop&q=80&w=800",
+      "tags": [
+        "Pre-Order"
+      ],
+      "description": "Screen-accurate tailored suit with magnetic web wings, articulated symbiote tendrils, and dynamic skyline base.",
+      "addedAt": 1790400574491
+    },
+    {
+      "id": "up-1",
+      "title": "Elden Ring: Messmer Helmet Replica",
+      "category": "Collectibles",
+      "fandom": "Gaming",
+      "price": "$399.00",
+      "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&q=80&w=800",
+      "tags": [
+        "Pre-Order",
+        "Limited Edition"
+      ],
+      "description": "Numbered limited edition (9,999 units) wearable helm cast in pure brass and weathered resin finish.",
+      "releaseDate": "November 2026",
+      "isUpcoming": true,
+      "addedAt": 1790400574491
+    },
+    {
+      "id": "up-2",
+      "title": "AOT: The Rumbling Colossal Titan Diorama",
+      "category": "Statues",
+      "fandom": "Anime",
+      "price": "$650.00",
+      "image": "https://images.unsplash.com/photo-1563089145-599997674d42?auto=format&fit=crop&q=80&w=800",
+      "tags": [
+        "Pre-Order"
+      ],
+      "description": "Massive 24-inch polystone diorama with translucent resin steam effects and LED glowing eyes.",
+      "releaseDate": "December 2026",
+      "isUpcoming": true,
+      "addedAt": 1790400574491
+    }
+  ],
+  "explore": [
+    {
+      "id": "sub-1790592614048",
+      "title": "rizq share",
+      "description": "hello",
+      "image": "/uploads/media_1790592592571_naukxn.png",
+      "category": "Anime",
+      "rating": 9,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "",
+      "isCommunity": true,
+      "isSubmission": true,
+      "authorEmail": "basheerbilal36@gmail.com",
+      "submissionType": "Article",
+      "addedAt": 1790623966535
+    },
+    {
+      "title": "fortnite gameplay highlights",
+      "description": "fortnite gameplay highlights",
+      "image": "/uploads/media_1790596999281_wczem6.jpg",
+      "category": "Gaming",
+      "rating": 8.7,
+      "year": 2024,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790597038591_y9pvhm.mp4",
+      "id": "exp-1790597050674",
+      "addedAt": 1790597050674
+    },
+    {
+      "title": "260524 Las Vegas Day-2  ",
+      "description": "260524 Las Vegas Day-2\n\n𝗚𝗼𝗹𝗱𝗲𝗻𝘀𝗲𝘃𝗲𝗻⁷ (@golden_seven)",
+      "image": "/uploads/media_1790596694598_4fh59q.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790596702155_cx28u7.mp4",
+      "id": "exp-1790596728103",
+      "addedAt": 1790596728103
+    },
+    {
+      "title": "260525 AMAs",
+      "description": "260525 AMAs",
+      "image": "/uploads/media_1790596612249_op2sy1.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790596620705_hgmf65.mp4",
+      "id": "exp-1790596625235",
+      "addedAt": 1790596625235
+    },
+    {
+      "title": "BTS",
+      "description": "BTS",
+      "image": "/uploads/media_1790596531357_rey3mi.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790596541366_nyixoa.mp4",
+      "id": "exp-1790596544980",
+      "addedAt": 1790596544980
+    },
+    {
+      "title": "ahh fav song 💜😩",
+      "description": "ahh fav song 💜😩\n\n♡ bangtan_spark✧ (@saehyung_07)",
+      "image": "/uploads/media_1790596414136_752wn2.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790596421972_2jjegv.mp4",
+      "id": "exp-1790596432837",
+      "addedAt": 1790596432837
+    },
+    {
+      "title": "Alien stage clips | Rami edit video,",
+      "description": "Alien stage clips | Rami edit video, Forever babymonster, Babymonster rami fancam\n\nSTARITA (@STAR1TA)",
+      "image": "/uploads/media_1790596296664_1d6236.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790596304973_fyp7ta.mp4",
+      "id": "exp-1790596317826",
+      "addedAt": 1790596317826
+    },
+    {
+      "title": "Rami and Ahyeon",
+      "description": "Rami and Ahyeon #Rami #ahyeon #JungAhyeon #yg #BABYMONSTER #Baemon #kpop | Danza y baile, Música k-pop, Casa de minecraft\n\nJendeukie14 (@JenJendeuliee)",
+      "image": "/uploads/media_1790596192439_on79z2.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790596200997_oz4or6.mp4",
+      "id": "exp-1790596222548",
+      "addedAt": 1790596222548
+    },
+    {
+      "title": "Twice red and black kpop outfits for stage",
+      "description": "Twice red and black kpop outfits for stage | Baby pink wallpaper iphone, Kpop anime, Kpop gifs",
+      "image": "/uploads/media_1790596065305_aj0t4c.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790596074729_9oig45.mp4",
+      "id": "exp-1790596078702",
+      "addedAt": 1790596078702
+    },
+    {
+      "title": "Karina Drama Fancam",
+      "description": "ib - Vidslab (Tiktok)",
+      "image": "/uploads/media_1790595970744_de15k6.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790595978957_dwjw24.mp4",
+      "id": "exp-1790595989707",
+      "addedAt": 1790595989707
+    },
+    {
+      "title": "Kim Nina",
+      "description": "#BTS_WORLDTOUR_ARIRANG #JUNGKOOK 😘 #BTS_WORLDTOUR_ARIRANG_LASVEGAS_D3",
+      "image": "/uploads/media_1790595713540_9467pc.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790595721986_tl8yjh.mp4",
+      "id": "exp-1790595737162",
+      "addedAt": 1790595737162
+    },
+    {
+      "title": "JUNGKOOK | World Tour ARIRANG",
+      "description": "BTS World Tour 'ARIRANG' in Brussel 🇧🇪 #bts #jungkook #arirang #worldtour",
+      "image": "/uploads/media_1790584675552_ape0ax.jpg",
+      "category": "K-Pop",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790585556735_p2be1z.mp4",
+      "id": "exp-1790584701145",
+      "addedAt": 1790584701145
+    },
+    {
+      "title": "Fullmetal Alchemist: Brotherhood",
+      "description": "rom his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+      "image": "/uploads/media_1790524359407_tbmftt.webp",
+      "category": "Anime",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "/uploads/media_1790524507803_gydcqm.mp4",
+      "id": "exp-1790524640700",
+      "addedAt": 1790524640700
+    },
+    {
+      "title": "Hanaori-san Still Wants to Fight in the Next Life",
+      "description": "Once the Demon King, now a shut-in NEET—Ryusei Narukami's second life is anything but peaceful! When Meteor Hanaori, the Hero who once defeated him, suddenly returns as a normal high school girl, his world is thrown into chaos. Determined to change, Ryusei reenters society as a teacher and ends up teaching at her school! Their explosive reunion reignites the past—and sparks an unexpected love!",
+      "image": "https://image.tmdb.org/t/p/w185/h2JZRLaFXWWhh61vAjqgHXeiZd8.jpg",
+      "category": "Anime",
+      "rating": 8.5,
+      "year": 2026,
+      "url": "",
+      "trailerUrl": "https://youtu.be/UXgbofdm2vQ?si=_rFjVmUy29zs5olw",
+      "id": "exp-1790518205675",
+      "addedAt": 1790518205675
+    }
+  ],
+  "topShows": [
+    {
+      "rank": 1,
+      "id": "show-1",
+      "title": "Naruto: Shippuden",
+      "category": "Anime",
+      "views": "9.8M Views",
+      "rating": 8.7,
+      "episodes": "500 Episodes",
+      "image": "/uploads/media_1790600375907_mdcy6w.jpg",
+      "trailerUrl": "https://youtu.be/jvfYdKUAfHU?si=PgM2H61F-nSb566-",
+      "badge": "RANK #1",
+      "addedAt": 1790513679235
+    },
+    {
+      "id": "top-show-1790663690946",
+      "rank": 1,
+      "title": "abc",
+      "category": "Action, Fantasy",
+      "views": "2.4M Views",
+      "rating": 9.2,
+      "episodes": "12 Episodes",
+      "image": "/uploads/media_1790663685225_wqbhei.jpg",
+      "badge": "HOT",
+      "trailerUrl": "",
+      "addedAt": 1790663690977
+    },
+    {
+      "rank": 2,
+      "id": "show-2",
+      "title": "Solo Leveling: Shadow Monarch",
+      "category": "Anime & Webtoon",
+      "views": "8.9M Views",
+      "rating": 8.9,
+      "episodes": "24 Episodes",
+      "image": "/uploads/media_1790602138050_h2ofik.jpg",
+      "trailerUrl": "https://youtu.be/vwQY5heVraU?si=wmkSVzamGpLpRL6l",
+      "badge": "POPULAR",
+      "addedAt": 1790522319235
+    },
+    {
+      "rank": 3,
+      "id": "show-3",
+      "title": "The Exiled Heavy Knight Knows How to Game the System",
+      "category": "Anime & Gaming",
+      "views": "7.4M Views",
+      "rating": 8.5,
+      "episodes": "12 Episodes",
+      "image": "/uploads/media_1790602203388_ybzhe3.jpg",
+      "trailerUrl": "https://youtu.be/TrwSxHK3U6Y?si=lkGZrasoaAyuXkiW",
+      "badge": "TRENDING",
+      "addedAt": 1790530959235
+    },
+    {
+      "rank": 4,
+      "id": "show-4",
+      "title": "Naruto",
+      "category": "Anime",
+      "views": "6.8M Views",
+      "rating": 8.3,
+      "episodes": "220 Episodes",
+      "image": "/uploads/media_1790601984284_3n2q4o.jpg",
+      "trailerUrl": "https://youtu.be/p_bA5g6WNOU?si=0omq6rZEk8mYhXDB",
+      "badge": "CLASSIC",
+      "addedAt": 1790539599235
+    },
+    {
+      "rank": 5,
+      "id": "show-5",
+      "title": "One Piece",
+      "category": "Anime",
+      "views": "6.5M Views",
+      "rating": 9,
+      "episodes": "1100+ Episodes",
+      "image": "/uploads/media_1790602649105_hkqb9p.jpg",
+      "trailerUrl": "https://youtu.be/3Gmo0EXHyKg?si=QDccg6SurDiDRdOq",
+      "badge": "HOT",
+      "addedAt": 1790548239235
+    },
+    {
+      "rank": 6,
+      "id": "show-6",
+      "title": "BLACK TORCH",
+      "category": "Anime",
+      "views": "6.1M Views",
+      "rating": 8.8,
+      "episodes": "55 Episodes",
+      "image": "/uploads/media_1790602773232_ci64zm.jpg",
+      "trailerUrl": "https://youtu.be/XL_biwm-hxU?si=WLJGNmD8Y_WtoIxL",
+      "badge": "MUST WATCH",
+      "addedAt": 1790556879235
+    },
+    {
+      "rank": 7,
+      "id": "show-7",
+      "title": "Solo Leveling",
+      "category": "Anime",
+      "views": "5.7M Views",
+      "rating": 8.9,
+      "episodes": "47 Episodes",
+      "image": "/uploads/media_1790602823471_oymcnm.jpg",
+      "trailerUrl": "https://youtu.be/bssSj4cKsrI?si=52ntfz_YxdExxaCx",
+      "badge": "BLOCKBUSTER",
+      "addedAt": 1790565519235
+    },
+    {
+      "rank": 8,
+      "id": "show-8",
+      "title": "Yowayowa Sensei",
+      "category": "Anime",
+      "views": "5.4M Views",
+      "rating": 9.1,
+      "episodes": "87 Episodes",
+      "image": "/uploads/media_1790601669648_88g7ee.jpg",
+      "trailerUrl": "https://youtu.be/7BzEVQ4vDhY?si=Yksm9z_cnsNd6Nys",
+      "badge": "TOP RATED",
+      "addedAt": 1790574159235
+    },
+    {
+      "rank": 9,
+      "id": "show-9",
+      "title": "Attack on Titan",
+      "category": "Anime",
+      "views": "4.9M Views",
+      "rating": 8.7,
+      "episodes": "390Episodes",
+      "image": "/uploads/media_1790601794454_synhay.jpg",
+      "trailerUrl": "https://youtu.be/3xNH23QkNpk?si=4A6YAltaFJlq1MdW",
+      "badge": "EPIC",
+      "addedAt": 1790582799235
+    },
+    {
+      "rank": 10,
+      "id": "show-10",
+      "title": "Jujutsu Kaisen",
+      "category": "Anime & Gaming",
+      "views": "4.5M Views",
+      "rating": 8.6,
+      "episodes": "10 Episodes",
+      "image": "/uploads/media_1790601903204_houk7i.jpg",
+      "trailerUrl": "https://youtu.be/tZtSjmn9qvw?si=VoX9ebb3uqYvDcby",
+      "badge": "AWARD WINNER",
+      "addedAt": 1790591439235
+    }
+  ]
+}
